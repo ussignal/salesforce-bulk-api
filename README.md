@@ -1,4 +1,4 @@
-# Client for Salesforce Bulk Api 
+# Client for Salesforce Bulk Api - Forked
 ## Easy way to manipulate your Salesforce data
 
 Don't worry, Be happy
